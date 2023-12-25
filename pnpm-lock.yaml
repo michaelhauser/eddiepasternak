@@ -40,9 +40,6 @@ devDependencies:
   '@picocss/pico':
     specifier: ^1.5.10
     version: 1.5.10
-  '@sveltejs/adapter-vercel':
-    specifier: ^2.2.0
-    version: 2.4.3(@sveltejs/kit@1.5.0)
   '@sveltejs/kit':
     specifier: ^1.5.0
     version: 1.5.0(svelte@3.54.0)(vite@4.2.0)
